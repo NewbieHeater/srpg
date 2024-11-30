@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4305433011042548060}
   - component: {fileID: 1206165606222512259}
   - component: {fileID: 263411853886204502}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: BasicTile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -118,3 +118,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e6a5507da3146444be11140a8879d37, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isWalkable: 0
