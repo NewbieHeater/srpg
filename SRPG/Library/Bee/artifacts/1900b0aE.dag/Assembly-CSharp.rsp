@@ -363,13 +363,14 @@
 "Assets/Script/Grid/CustomGridConfig.cs"
 "Assets/Script/Grid/CustomGridPalette.cs"
 "Assets/Script/Grid/CustomGridPaletteItem.cs"
+"Assets/Script/Grid/GridManager.cs"
 "Assets/Script/Grid/MapObject.cs"
-"Assets/Script/GridManager.cs"
 "Assets/Script/MonoSingleton.cs"
 "Assets/Script/MovementHandleManager.cs"
 "Assets/Script/StatData/StatData.cs"
 "Assets/Script/Tile/Tile.cs"
 "Assets/Script/Tile/TileMaps.cs"
+"Assets/Script/Unit/GunnerUnit.cs"
 "Assets/Script/Unit/UnitBase.cs"
 -langversion:9.0
 /deterministic
